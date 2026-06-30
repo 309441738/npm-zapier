@@ -1,0 +1,10 @@
+{
+  "title": "邮轮产品 NPM 工具",
+  "description": "通过 NPM 使用邮轮产品 API，开发者可以在自己的应用中集成邮轮产品信息。",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
